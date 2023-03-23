@@ -1,5 +1,5 @@
 {
-  "name": "@design-system-brunopp00tokens",
+  "name": "@design-system-brunopp00/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@design-system-brunopp00ts-config": "*",
-    "@design-system-brunopp00eslint-config": "*",
+    "@design-system-brunopp00/ts-config": "*",
+    "@design-system-brunopp00/eslint-config": "*",
     "tsup": "^6.6.0",
     "typescript": "^4.9.5"
   }

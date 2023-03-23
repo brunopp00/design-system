@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@design-system-brunopp00tokens'
+} from '@design-system-brunopp00/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

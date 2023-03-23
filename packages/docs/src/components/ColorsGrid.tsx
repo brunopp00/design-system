@@ -1,4 +1,4 @@
-import { colors } from '@design-system-brunopp00tokens'
+import { colors } from '@design-system-brunopp00/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

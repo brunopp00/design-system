@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@design-system-brunopp00docs"]
+  "ignore": ["@design-system-brunopp00/docs"]
 }

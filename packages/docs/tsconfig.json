@@ -1,4 +1,4 @@
 {
-    "extends": "@design-system-brunopp00ts-config/react.json",
+    "extends": "@design-system-brunopp00/ts-config/react.json",
     "include": ["src"]
 }

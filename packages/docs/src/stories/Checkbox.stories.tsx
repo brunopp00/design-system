@@ -4,7 +4,7 @@ import {
   Text,
   Checkbox,
   CheckboxProps,
-} from '@design-system-brunopp00react'
+} from '@design-system-brunopp00/react'
 
 export default {
   title: 'Form/Chackbox',

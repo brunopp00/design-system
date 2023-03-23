@@ -1,4 +1,4 @@
 {
-    "extends": "@design-system-brunopp00ts-config/base.json",
+    "extends": "@design-system-brunopp00/ts-config/base.json",
     "include": ["src"]
   }
