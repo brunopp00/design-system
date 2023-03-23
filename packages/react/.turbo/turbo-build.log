@@ -1,5 +1,5 @@
 
-> @design-system-brunopp00/react@1.0.0 build
+> @design-system-brunopp00/react@2.0.0 build
 > tsup src/index.tsx --format esm,cjs --dts --external react
 
 CLI Building entry: src/index.tsx
@@ -9,9 +9,9 @@ CLI Target: es6
 ESM Build start
 CJS Build start
 ESM dist/index.mjs 11.08 KB
-ESM ⚡️ Build success in 50ms
+ESM ⚡️ Build success in 71ms
 CJS dist/index.js 13.17 KB
-CJS ⚡️ Build success in 50ms
+CJS ⚡️ Build success in 72ms
 DTS Build start
-DTS ⚡️ Build success in 5214ms
+DTS ⚡️ Build success in 7155ms
 DTS dist/index.d.ts 43.51 KB
