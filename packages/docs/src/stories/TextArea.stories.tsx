@@ -1,5 +1,10 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@design-system-brunopp00/react'
+import {
+  Box,
+  Text,
+  TextArea,
+  TextAreaProps,
+} from '@design-system-brunopp00/react'
 
 export default {
   title: 'Form/Text Area',
