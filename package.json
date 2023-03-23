@@ -1,15 +1,20 @@
 {
-    "private":true,
-    "workspaces":[
+    "private": true,
+    "workspaces": [
         "packages/*"
     ],
     "scripts": {
         "dev": "turbo run dev --parallel",
-        "build": "turbo run build"
+        "build": "turbo run build",
+        "changeset": "changeset",
+        "version-packages": "changeset version",
+        "release": "turbo run build --filter=@design-system-brunopp00docs && changeset publish"
     },
-    "devDependencies":{
-        "@types/react":"^18.0.28",
-        "@types/react-dom":"^18.0.11",
-        "react":"^18.2.0",
-        "turbo":"^1.8.3"
-    }}
+    "devDependencies": {
+        "@changesets/cli": "^2.26.1",
+        "@types/react": "^18.0.28",
+        "@types/react-dom": "^18.0.11",
+        "react": "^18.2.0",
+        "turbo": "^1.8.3"
+    }
+}
