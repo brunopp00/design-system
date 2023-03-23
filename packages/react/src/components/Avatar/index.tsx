@@ -15,4 +15,4 @@ export function Avatar(props: AvatarProps) {
   )
 }
 
-Avatar.displayName = 'Avatar'
+Avatar.displayName = 'Avatar '
