@@ -1,0 +1,2 @@
+import{A as t}from"./index-f49ae671.js";import"./index-3c1f3212.js";import"./iframe-d3c8f375.js";import"./index-fcf08e7b.js";import"./jsx-runtime-2ccf96af.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/brunopp00.png",alt:"Bruno Frohlich"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallBack"];export{c as Primary,m as WithFallBack,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-25a2ec15.js.map
